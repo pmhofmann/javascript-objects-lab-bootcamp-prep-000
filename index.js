@@ -1,2 +1,1 @@
-var recipes = {Pizza: ["Dough","Tomatoes","Cheese","Basil"];
-}
+var recipes = Pizza: ["Dough","Tomatoes","Cheese","Basil";
