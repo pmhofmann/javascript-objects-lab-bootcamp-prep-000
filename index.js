@@ -1,1 +1,1 @@
-var recipes = {Pizza:
+var recipes = {Pizza: ["Dough","Tomatoes","Cheese","Basil"]
